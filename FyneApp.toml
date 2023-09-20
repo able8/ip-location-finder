@@ -1,0 +1,8 @@
+Website = "https://github.com/able8/ip-location-finder"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "IP Location Finder"
+  ID = "com.github.able8.ip-location-finder"
+  Version = "0.1.0"
+  Build = 3
